@@ -1,0 +1,6 @@
+C:\Users\HallenM\Desktop\НГТУ и всё связанное с ним\ООП\oop1\oop1\bin\Debug\oop1.exe.config
+C:\Users\HallenM\Desktop\НГТУ и всё связанное с ним\ООП\oop1\oop1\bin\Debug\oop1.exe
+C:\Users\HallenM\Desktop\НГТУ и всё связанное с ним\ООП\oop1\oop1\bin\Debug\oop1.pdb
+C:\Users\HallenM\Desktop\НГТУ и всё связанное с ним\ООП\oop1\oop1\obj\Debug\oop1.csproj.CoreCompileInputs.cache
+C:\Users\HallenM\Desktop\НГТУ и всё связанное с ним\ООП\oop1\oop1\obj\Debug\oop1.exe
+C:\Users\HallenM\Desktop\НГТУ и всё связанное с ним\ООП\oop1\oop1\obj\Debug\oop1.pdb
